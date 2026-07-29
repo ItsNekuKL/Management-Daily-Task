@@ -1,4 +1,4 @@
-# CLI Daily Task Tracker
+<h1 align="cener">CLI Daily Task Tracker</h1>
 
 Aplikasi Command Line Interface (CLI) berbasis Python untuk mencatat log pekerjaan harian secara cepat via terminal. Data yang terkumpul akan diekspor otomatis menjadi file Microsoft Excel (`.xlsx`) yang terstruktur untuk kebutuhan pelaporan.
 
