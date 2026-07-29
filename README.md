@@ -2,8 +2,8 @@
 
 Aplikasi Command Line Interface (CLI) berbasis Python untuk mencatat log pekerjaan harian secara cepat via terminal. Data yang terkumpul akan diekspor otomatis menjadi file Microsoft Excel (`.xlsx`) yang terstruktur untuk kebutuhan pelaporan.
 
+## Tech Stack
 <p align="center">
-  ## Tech Stack
   <img src="https://img.shields.io/badge/python-111827?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
 </p>
 
