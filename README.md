@@ -11,10 +11,11 @@ Aplikasi Command Line Interface (CLI) berbasis Python untuk mencatat log pekerja
 
 | Fitur | Command / Menu | Deskripsi Fungsional |
 | :--- | :--- | :--- |
-| **Quick Log** | `add` | Input detail pekerjaan (nama task, kategori, durasi, status) langsung dari CMD. |
-| **Monitor Task** | `list` | Menampilkan tabel ringkasan pekerjaan hari ini di layar terminal. |
-| **Export to Excel**| `export` | Mengkonversi dan merapikan data log menjadi spreadsheet Excel siap pakai. |
-| **Local Storage** | - | Data disimpan sementara di `.csv` lokal tanpa butuh koneksi database luar. |
+| **AddTask/Tambah_Tuagas** | `add` | Input detail pekerjaan (nama task, kategori, durasi, status) langsung dari CMD. |
+| **HistoryStask/Lihat_tgas** | `list` | Menampilkan tabel ringkasan pekerjaan hari ini di layar terminal. |
+| **Valifation/selesaikan_tgas** | `list` | Menyelesaikan tuagas yang sedang dikerjakan menjadi "selsai/done" dengenan menentukan tugasnya terlebih dahulu |
+| **Export Excel**| `export` | Mengkonversi dan merapikan data log menjadi spreadsheet Excel siap pakai. |
+| **Storage** | - | Data disimpan sementara di `.json` lokal tanpa butuh koneksi database luar. |
 
 ---
 
